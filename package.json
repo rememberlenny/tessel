@@ -1,0 +1,21 @@
+{
+  "name": "tessel",
+  "version": "0.0.0",
+  "description": "The tessel from Bloomberg!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rememberlenny/tessel.git"
+  },
+  "keywords": [
+    "tessel"
+  ],
+  "author": "Leonard K. Bogdonoff",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rememberlenny/tessel/issues"
+  }
+}
